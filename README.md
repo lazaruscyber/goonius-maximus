@@ -1,4 +1,4 @@
-# Discord Dumpster Dive
+# Gooners Caught In 4K
 
 Well, well, well! A collection of degenrative and "illegal" messages dumped in one place for the world to laugh at.
 
