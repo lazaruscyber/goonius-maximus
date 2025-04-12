@@ -1,22 +1,9 @@
 # Discord Dumpster Dive
 
-Well, well, well! Welcome to the *Discord Dumpster Dive*—a chaotic collection of all the gloriously degenerative content scraped from the depths of Discord, dumped into this repo for your amusement. Buckle up and prepare to laugh, cringe, or maybe both!
+Well, well, well! A collection of degenrative and "illegal" messages dumped in one place for the world to laugh at.
 
 ## About This Repo
 
-This repository is a wild archive of memes, rants, and unfiltered nonsense that somehow made it out of Discord servers and into the light of day. It's not curated, it's not polished, and it's definitely not for the faint of heart. Think of it as a digital time capsule of internet absurdity.
+I made this repo so that anyone that wants to be hero and dedicate a lot of time to actually report it to discord (they won't rlly care about your submission), they can use all this evidence I have dumped here.
 
-**Disclaimer**: This content is meant for entertainment purposes only. Proceed at your own risk!
-
-## What's Inside?
-
-- **Memes**: From low-effort to cursed, we've got it all.
-- **Screenshots**: Iconic moments that deserve to be immortalized.
-- **Text Logs**: The unhinged conversations you didn't know you needed.
-- **Miscellaneous Mayhem**: Anything too weird to categorize.
-
-## How to Use This Repo
-
-1. **Clone or Download**: Grab the repo and dive in.
-   ```bash
-   git clone https://github.com/yourusername/discord-dumpster-dive.git
+**Disclaimer**: I didn't read every single message because there's a total of 36,889 messages! Some messages might be "illegal" but its Discord so its not like I did not expect it.
